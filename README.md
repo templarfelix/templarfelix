@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 ![TemplarFelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=templarfelix&show_icons=true&theme=radical&count_private=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=templarfelix&repo=complete-microservice-stack )](https://github.com/templarfelix/complete-microservice-stack)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=templarfelix)](https://github.com/templarfelix/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=templarfelix&repo=complete-microservice-stack )](https://github.com/templarfelix)
