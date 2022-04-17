@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+![TemplarFelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=templarfelix&show_icons=true&theme=radical&count_private=true)
 
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=templarfelix&repo=complete-microservice-stack )](https://github.com/templarfelix/complete-microservice-stack)
